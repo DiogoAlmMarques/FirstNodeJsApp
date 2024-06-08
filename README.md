@@ -1,2 +1,2 @@
 # FirstNodeJsApp
-Learning node,js :) *HELLO WORLD*
+Learning node.js :) *HELLO WORLD*
